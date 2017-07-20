@@ -13,4 +13,4 @@
 * [Multi-class Classification](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex3)
    * Vectorizing Logistic Regression
    * One-vs-all Classification
-   * [Neural Network](https://github.com/LeoZ123/Machine-Learning-Practice/blob/master/Neural_Network/README.md)
+   * [Self-practice](https://github.com/LeoZ123/Machine-Learning-Practice/blob/master/Neural_Network/README.md)
