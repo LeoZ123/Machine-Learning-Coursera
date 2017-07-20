@@ -1,7 +1,7 @@
 # Linear Regression
 
 1. Plotting the Data </br>
-<img src="https://github.com/LeoZ123/Machine-Learning-Coursera/blob/master/ReadMe/ex2/ex2-1.png">
+<img src="https://github.com/LeoZ123/Machine-Learning-Coursera/blob/master/ReadMe/ex2/ex2-1-1.png">
 
 2. Cost function and gradient
 <img src="https://github.com/LeoZ123/Machine-Learning-Coursera/blob/master/ReadMe/ex2/ex2-2.png">
