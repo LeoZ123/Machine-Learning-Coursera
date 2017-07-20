@@ -1,4 +1,4 @@
-# Linear Regression
+# Logistic Regression
 
 1. Plotting the Data </br>
 <img src="https://github.com/LeoZ123/Machine-Learning-Coursera/blob/master/ReadMe/ex2/ex2-1-1.png">
@@ -23,4 +23,4 @@
 <img src="https://github.com/LeoZ123/Machine-Learning-Coursera/blob/master/ReadMe/ex2/ex2-5.png">
 
 ## Practice
-[Linear Regression](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Regression_Problem)</br>
+[Support Vector Machine](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Support_Vector_Machine(SVM))</br>
