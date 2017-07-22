@@ -15,7 +15,7 @@
 
 1. Sigmoid gradient
 
-2.Random initialization
+2. Random initialization
 
 3. Backpropagation
 
