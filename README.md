@@ -14,3 +14,9 @@
    * Vectorizing Logistic Regression
    * One-vs-all Classification
    * [Self-practice](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Neural_Network)
+
+
+* [Neural Networks](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex3)
+   * Neural Networks
+   * Backpropagation
+   * [Self-practice](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Neural_Network)
